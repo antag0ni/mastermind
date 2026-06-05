@@ -124,7 +124,7 @@ The game features a clean, boxed interface with:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mastermind.git
+git clone https://github.com/antag0ni/mastermind.git
 cd mastermind
 
 # Build
